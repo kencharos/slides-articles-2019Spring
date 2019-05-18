@@ -5,7 +5,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 - [【E+F】 日本Javaユーザーグループ 年次総会](https://ここにスライドURLを入れてね) JJUG幹事
 
 ## 10:00-10:45
-
+- [【A+B】初めてのgRPC](https://speakerdeck.com/line_developers/starting-grpc) 前多賢太郎
 
 ## 11:00-11:45
 
